@@ -1,5 +1,5 @@
 from flask import Flask, request
-from message impotr VkApi
+from message import VkApi
 
 
 api = VkApi('22e5ccbfe6f72548fc6579a21c57889e224582263cc9c4da2085be1281c8e00d0435912eb0b1fe021a4f2')
