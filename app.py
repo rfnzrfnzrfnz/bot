@@ -18,3 +18,4 @@ def vk():
             message.get('object').get('from_id'), 
             message.get('object').get('text')
         )
+        return 'Ok'
